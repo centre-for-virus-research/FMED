@@ -1,2 +1,2 @@
-# Flu Mutation Effect Database (FMED)
+# Flu Mutation Effect Database
 
